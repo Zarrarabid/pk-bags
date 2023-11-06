@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pk-bags/static/css/main.38413b00.css",
-    "main.js": "/pk-bags/static/js/main.76f4ebb4.js",
+    "main.js": "/pk-bags/static/js/main.53f25070.js",
     "static/media/phone.png": "/pk-bags/static/media/phone.2e89766a7fdf7d98d1a6.png",
     "static/media/shop cargo.png": "/pk-bags/static/media/shop cargo.7bdd8974207f5a340ea9.png",
     "static/media/flat-woman-holding-shopping-bags-cartoon-wallpaper-modern-design-for-shopping-online-website-design-png.webp": "/pk-bags/static/media/flat-woman-holding-shopping-bags-cartoon-wallpaper-modern-design-for-shopping-online-website-design-png.a21c7b1633f3b7019067.webp",
@@ -20,10 +20,10 @@
     "static/media/bag 4.avif": "/pk-bags/static/media/bag 4.4eafdfdef2fd3cdf4e73.avif",
     "index.html": "/pk-bags/index.html",
     "main.38413b00.css.map": "/pk-bags/static/css/main.38413b00.css.map",
-    "main.76f4ebb4.js.map": "/pk-bags/static/js/main.76f4ebb4.js.map"
+    "main.53f25070.js.map": "/pk-bags/static/js/main.53f25070.js.map"
   },
   "entrypoints": [
     "static/css/main.38413b00.css",
-    "static/js/main.76f4ebb4.js"
+    "static/js/main.53f25070.js"
   ]
 }
