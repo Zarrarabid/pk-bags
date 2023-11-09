@@ -5,11 +5,13 @@ import "./error.css";
 import React from "react";
 
 import { Link } from "react-router-dom";
-
+import Modal from '@mui/material/Modal';
 import Footer from '../../container/Footer/Footer'
 function Error() {
   return (
     <div>
+
+
       <section className="page_404">
         <div className="container-fluid">
           <div className=" row">
@@ -33,7 +35,6 @@ function Error() {
           </div>
         </div>
       </section>
-      <Footer/>
     </div>
   );
 }
