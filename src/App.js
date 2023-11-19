@@ -8,10 +8,10 @@ function App() {
   return (
     <div id='main' className="App">
       <Routes>
-        <Route exact path='/' element={<Home/>} />
-        <Route exact path='/about' element={<About/>} />
-        <Route exact path='/contact' element={<Contact/>} />
-        <Route exact path='/LogIn' element={<LogIn/>} />
+        <Route exact path='https://Zarrarabid.github.io/pk-bags/' element={<Home/>} />
+        <Route exact path='https://Zarrarabid.github.io/pk-bags/about' element={<About/>} />
+        <Route exact path='https://Zarrarabid.github.io/pk-bags/contact' element={<Contact/>} />
+        <Route exact path='https://Zarrarabid.github.io/pk-bags/LogIn' element={<LogIn/>} />
         <Route exact path='*' element={<Error/>} />
       </Routes>
     </div>
